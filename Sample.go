@@ -1,3 +1,45 @@
+//package main
+
+//import (
+//	"fmt"
+//)
+
+//func main() {
+//	var i int = 10
+//	{
+//		if i%2 == 0 {
+//			fmt.Println(i, "is even")
+//		} else {
+//			fmt.Println(i, "is odd")
+//		}
+//	}
+//}
+
+//
+
+//package main
+
+//import (
+//	"fmt"
+//)
+
+//func main() {
+//	fmt.Println("Helo")
+
+//	var max int = 10
+//	for i := 1; i <= max; i++ {
+//		if i%2 == 0 {
+//			fmt.Println(i, "is Even")
+//		} else {
+//			fmt.Println(i, "is Odd")
+//		}
+//	}
+//}
+
+
+
+
+
 
 // ***constants****
 //package main
